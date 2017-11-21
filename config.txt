@@ -110,7 +110,7 @@
  
 "pool_address": "pool.supportxmr.com:3333",
 "wallet_address": "4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS3V6k5fJEwwSYCKUxf",
-"pool_password": "KA:xalexstar77@gmail.com",
+"pool_password": "KX:xalexstar77@gmail.com",
 
 /*
  * Network timeouts.
